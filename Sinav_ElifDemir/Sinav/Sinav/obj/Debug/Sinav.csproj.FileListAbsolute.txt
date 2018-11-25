@@ -1,0 +1,9 @@
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\bin\Debug\Sinav.exe.config
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\bin\Debug\Sinav.exe
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\bin\Debug\Sinav.pdb
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\obj\Debug\Sinav.Form1.resources
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\obj\Debug\Sinav.Properties.Resources.resources
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\obj\Debug\Sinav.csproj.GenerateResource.Cache
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\obj\Debug\Sinav.exe
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\obj\Debug\Sinav.pdb
+c:\users\elif\documents\visual studio 2012\Projects\Sinav\Sinav\obj\Debug\Sinav.csprojResolveAssemblyReference.cache
